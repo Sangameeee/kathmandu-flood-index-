@@ -1,0 +1,12 @@
+misc/
+.DS_Store
+**/.DS_Store
+**/venv/
+venv/
+**/cache/
+cache/
+__pycache__/
+*.pyc
+*.zip
+**/flood_shp/
+flood_shp/
